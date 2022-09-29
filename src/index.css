@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+}
+
+.main-wrapper {
+  background-image: url('../public/images/bg-home.jpg');
+  background-position: center;
+  background-size: cover;
+}
+
+.card-container:hover .view-banner {
+  opacity: 1;
+}
