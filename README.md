@@ -3,7 +3,7 @@
 ---
 # Getting Started with Create React App
 
-This project is created for Zevi
+This project is created for Zevi.ai
 
 ---
 ## Available Scripts
